@@ -8,11 +8,12 @@ const Skills = () => {
   return (
     <>
       <div className="my-32 items-center" id="Skill">
-        <h1 className="text-3xl font-bold text-center ">Skils</h1>
+        <h1 className="text-3xl font-bold text-center ">Skills</h1>
+        <p className="text-center">My Programming Skill</p>
 
-        <div className="grid justify-items-center sm:flex sm:flex-row sm:justify-center">
-          <div className="sm:w-96 w-60 px-2">
-            <h1 className="text-2xl font-bold">
+        <div className="grid justify-items-center sm:flex sm:flex-row sm:justify-center py-3">
+          <div className="sm:w-96 w-60 px-2 ">
+            <h1 className="text-2xl font-bold text-center">
               {" "}
               <CodeIcon className="mb-2" /> Frontend
             </h1>
@@ -133,11 +134,11 @@ const Skills = () => {
               </div>
               <span>75 %</span>
             </div>
-            <LinearProgress variant="determinate" value={75} />
+            <LinearProgress variant="determinate" className="mb-8" value={75} />
           </div>
 
           <div className="sm:w-96 w-60 px-2 sm:py-0">
-            <h1 className="text-2xl font-bold">
+            <h1 className="text-2xl font-bold text-center ">
               {" "}
               <StorageIcon className="mb-2" /> Backend
             </h1>

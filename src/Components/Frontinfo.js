@@ -10,7 +10,7 @@ const Frontinfo = () => {
   return (
     <div className="flex sm:flex-row flex-col px-5 my-20 justify-center">
       <div className="sm:mt-48 mr-20">
-        <a href="#">
+        <a href="https://github.com/ganeshsuryawansh" target="_blank">
           <GitHubIcon />
         </a>
       </div>

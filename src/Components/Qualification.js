@@ -4,6 +4,7 @@ const Qualification = () => {
   return (
     <section className="my-32 flex flex-col items-center justify-center text-sm ">
       <h1 className="text-3xl font-bold text-center ">Qualification</h1>
+      <p className="text-center">My Education Journey</p>
       <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-10 "></div>
       <div className="h-60 w-60 bg-blue-500 p-10 text-white">
         <h1 className="text-xl">MERN STACK COURSE</h1>

@@ -7,7 +7,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 const Footer = () => {
   return (
     <>
-      <div className="bg-blue-500 w-full  flex flex-col sm:flex-row text-white lg:px-52">
+      <div className="bg-blue-500 w-full  flex flex-col sm:flex-row text-white lg:px-52 justify-center">
         <div className="pt-5 px-5">
           <h1>Ganesh</h1>
           <p>MERN Stack developer</p>
