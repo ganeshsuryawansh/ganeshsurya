@@ -4,8 +4,8 @@ const Qualification = () => {
   return (
     <section className="my-32 flex flex-col items-center justify-center text-sm ">
       <h1 className="text-3xl font-bold text-center ">Qualification</h1>
-      <div className="bg-purple-700 w-1 flex flex-col items-center justify-center h-10 "></div>
-      <div className="h-60 w-60 bg-purple-700 p-10 text-white">
+      <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-10 "></div>
+      <div className="h-60 w-60 bg-blue-500 p-10 text-white">
         <h1 className="text-xl">MERN STACK COURSE</h1>
         <h3 className="text-sm">
           TechRel Training Insttute Pune <br /> Duration - 6 Month <br /> Aug
@@ -13,8 +13,8 @@ const Qualification = () => {
         </h3>
         <div className=" h-14 w-14"> </div>
       </div>
-      <div className="bg-purple-700 w-1 flex flex-col items-center justify-center h-32 ">
-        <div className="bg-purple-700 p-2 rounded-full">
+      <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-32 ">
+        <div className="bg-blue-500 p-2 rounded-full">
           <svg
             stroke="currentColor"
             fill="currentColor"
@@ -31,15 +31,15 @@ const Qualification = () => {
           </svg>
         </div>
       </div>
-      <div className="h-60 w-60 bg-purple-700 p-10 text-white">
+      <div className="h-60 w-60 bg-blue-500 p-10 text-white">
         <h1 className="text-xl">Bachelor Of Computer Application</h1>
         <h3 className="text-sm">
           Pune University <br /> 8.46 CGPA <br />
           2020 - 2023
         </h3>
       </div>
-      <div className="bg-purple-700 w-1 flex flex-col items-center justify-center h-32">
-        <div className="bg-purple-700 p-2 rounded-full">
+      <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-32">
+        <div className="bg-blue-500 p-2 rounded-full">
           <svg
             stroke="currentColor"
             fill="currentColor"
@@ -53,15 +53,15 @@ const Qualification = () => {
           </svg>
         </div>
       </div>
-      <div className="h-60 w-60 bg-purple-700 p-10 text-white">
+      <div className="h-60 w-60 bg-blue-500 p-10 text-white">
         <h1 className="text-xl">HSC - Science</h1>
         <h3 className="text-sm">
           Maharashtra - State Borad <br /> 62.00% <br />
           2018 - 2020
         </h3>
       </div>
-      <div className="bg-purple-700 w-1 flex flex-col items-center justify-center h-32 ">
-        <div className="bg-purple-700 p-2 rounded-full">
+      <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-32 ">
+        <div className="bg-blue-500 p-2 rounded-full">
           <svg
             stroke="currentColor"
             fill="currentColor"
@@ -75,14 +75,14 @@ const Qualification = () => {
           </svg>
         </div>
       </div>
-      <div className="h-60 w-60 bg-purple-700 p-10 text-white">
+      <div className="h-60 w-60 bg-blue-500 p-10 text-white">
         <h1 className="text-xl">SSC</h1>
         <h3 className="text-sm">
           Maharashtra - State Borad
           <br /> 72.00 % <br /> March 2018
         </h3>
       </div>
-      <div className="bg-purple-700 w-1 flex flex-col items-center justify-center h-10 "></div>
+      <div className="bg-blue-500 w-1 flex flex-col items-center justify-center h-10 "></div>
     </section>
   );
 };
